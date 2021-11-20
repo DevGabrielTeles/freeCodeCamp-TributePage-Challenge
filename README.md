@@ -6,6 +6,8 @@ Após os 5 projetos irei ganhar a Certificação de Design responsivo para a web
 
 Objetivo: criar uma aplicação no CodePen.io que tenha função semelhante a esta: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
+PREMISSAS:
+
 Atenda às especificações de usuário abaixo para passar em todos os testes. Dê à página o seu próprio estilo pessoal.
 
 Você pode usar HTML, JavaScript e CSS para completar este projeto. É recomendado utilizar CSS puro, pois é disso que trataram as lições até agora. É bom você adquirir alguma prática com CSS. Você pode usar Bootstrap ou SASS se quiser. Outras tecnologias (como, por exemplo, jQuery, React, Angular ou Vue) não são recomendadas para este projeto. Use-as por sua conta e risco. Outros projetos te darão uma chance de trabalhar com diferentes bibliotecas, como o React. Vamos aceitar e tentar corrigir todos os relatórios de problemas que usem a stack de tecnologias sugerida para esse projeto. Boa programação!

@@ -4,7 +4,7 @@ Hora de colocar as habilidades aprendidas em prática todas as competências, pr
 
 Após os 5 projetos irei ganhar a **Certificação de Design responsivo para a web**.
 
-Objetivo: criar uma aplicação no CodePen.io que tenha função semelhante a esta: https://codepen.io/freeCodeCamp/full/zNqgVx.
+Objetivo: criar uma aplicação no CodePen.io que tenha função semelhante a [este](https://codepen.io/freeCodeCamp/full/zNqgVx).
 
 Este site foi construído usando todo conhecimento adquirido em [FreeCodeCamp](www.freecodecamp.org/learn/responsive-web-design/).
 
@@ -37,5 +37,7 @@ Este site foi construído usando todo conhecimento adquirido em [FreeCodeCamp](w
 >Quando tiver terminado, envie o URL do seu projeto depois de ele haver passado em todos os testes.
 
 ## PRODUTO FINAL
+
+[Codepen.io](https://codepen.io/devm4ycry/pen/porBzQP)
 
 ![tributepage](https://user-images.githubusercontent.com/93494655/142738286-05d0e391-af45-422d-a1c1-8ed7f0e21308.png)

@@ -1,6 +1,6 @@
 # freeCodeCamp-TributePage-Challenge
 
-Hora de colocar as habilidades aprendidas. São 5 projetos ao todo e nestes projetos, você terá a oportunidade de aplicar todas as competências, princípios e conceitos que você aprendi até agora: HTML, CSS, Visual Design, Acessibilidade e muito mais.
+Hora de colocar as habilidades aprendidas em prática todas as competências, princípios e conceitos que você aprendi até agora: HTML, CSS, Visual Design, Acessibilidade e muito mais.. Esse é o projeto 01 de 05 projetos
 
 Após os 5 projetos irei ganhar a **Certificação de Design responsivo para a web**.
 
